@@ -1,0 +1,31 @@
+table {
+  margin: 10px 0px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.album-header {
+  margin: 10px;
+}
+
+.alignCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.alignCenter div {
+  width: 150px;
+  height: 150px;
+}
+
+.alignCenter img {
+  width: 100%;
+}
+
+.link {
+  cursor: pointer;
+}
